@@ -17,4 +17,5 @@
 17)@Transaction
 18)Design pattersn in java
 19)How to preventing singletone object being cloned
-20) git main branch
+20)git second-branch(1)
+
