@@ -1,0 +1,19 @@
+1)Can we print anything on console without call the main mehtod
+2) can we have multiple finally blocks - No
+3) Diffrent between set and arrayList
+4)Can we use class as a key in hashmap - yes
+5) reflection in java
+6) java 8 features
+7)can functional interface can extended another interface
+8)stream api
+9) diffrence between filters and map
+10)Diffrence between spring and spring boot
+11)scopes of bean
+12)caching in spring boot application
+13)Ideanpotent methods
+14)diffrence between Requestparam and pathvariable
+15)@Configuration annotation
+16)JpaRepository
+17)@Transaction
+18)Design pattersn in java
+19)How to preventing singletone object being cloned
